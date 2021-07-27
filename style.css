@@ -3,6 +3,7 @@ form {
     width:50%;
     margin-left:21%;
 }
+
 #searchbox {
     background-color:transparent;
     border-radius: 25px;
@@ -18,7 +19,6 @@ form {
     background-size: 30px;
     box-sizing: content-box;
 }
-
 input:focus, textarea {
     outline: none !important;
 }
